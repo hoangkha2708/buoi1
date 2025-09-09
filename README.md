@@ -1,2 +1,1 @@
-#buoi1
-Giới thiệu : Tôi là < Võ Hoàng Kha> ,mssv <220820>.
+ dây là README từ nhánh main .
